@@ -75,9 +75,9 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>About Me</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>I'm the word wizard, idea genie and visual virtuoso! I'm the go-to person for helping others spin their tales. I firmly believe in the magic of words—you know, the kind that can squeeze all your wildest dreams and deepest emotions into just a handful of lines. But that's not all! I'm also a part-time filmmaker with an unquenchable thirst for storytelling adventures. Welcome to my portfolio playground, where I show off my wizardry as both a wordsmith and a cinematic sorcerer. So, click those buttons up there to dive into my world of resumes and projects. It's a fun ride, promise!</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>

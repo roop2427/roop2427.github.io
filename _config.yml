@@ -1,7 +1,7 @@
 # site settings
-title: Portfolio
-subtitle:
-email: youremailaddress@gmail.com
+title:
+subtitle: Writer | Filmmaker | Visualizer | Ideator
+email: roopkathaforever@gmail.com
 description: Senior Creative Strategist <br />Still Explaining What I Do to My Family
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
