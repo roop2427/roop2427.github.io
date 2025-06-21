@@ -1,21 +1,21 @@
 # site settings
-title:
-subtitle: Writer | Filmmaker | Visualizer | Ideator
+title: Roopkatha Dam
+subtitle: Senior Copywriter | Filmmaker | Creative Strategist
 email: roopkathaforever@gmail.com
-description: Senior Creative Strategist <br />Still Explaining What I Do to My Family
+description: Creative Strategist at Dentsu Network with 3+ years experience working with brands like Reliance Retail, Hoichoi, SVF, TATA, and Sony Music. <br />Turning briefs into award-worthy stories that people actually want to watch.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
+author: Roopkatha Dam
 street_address:
 city: Kolkata
 state: West Bengal
 zip_code:
 country: India
-phone:
+phone: 8902271191 / 8240215159
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 4
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
