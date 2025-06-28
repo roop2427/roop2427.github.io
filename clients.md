@@ -2,7 +2,6 @@
 layout: post
 title: Clients & Success Stories
 description: Trusted partnerships with leading brands across industries
-image: assets/images/clients/hoichoi_logo.png
 nav-menu: true
 ---
 
@@ -15,47 +14,120 @@ With experience at top agencies like **Dentsu Network** and **Promotedge**, plus
 <div class="row">
     <div class="4u 6u(medium) 12u$(small)">
         <div class="client-logo">
-            <img src="assets/images/clients/reliance_logo.png" alt="Reliance Retail" style="max-width: 150px; height: auto;"/>
-            <h4>Reliance Retail</h4>
-            <p style="font-size: 0.9em; color: #888;">India's largest retailer - Senior Copywriter at Dentsu</p>
+            <img src="assets/images/clients/veedol_logo.avif" alt="Veedol" style="max-width: 150px; height: auto;"/>
+            <h4>Veedol</h4>
         </div>
     </div>
     <div class="4u 6u$(medium) 12u$(small)">
         <div class="client-logo">
-            <img src="assets/images/clients/fossil_logo.png" alt="Fossil India" style="max-width: 150px; height: auto;"/>
-            <h4>Fossil India</h4>
-            <p style="font-size: 0.9em; color: #888;">International lifestyle brand - Dentsu Network</p>
+            <img src="assets/images/clients/sai_logo.avif" alt="SAI International School" style="max-width: 150px; height: auto;"/>
+            <h4>SAI International School</h4>
+        </div>
+    </div>
+    <div class="4u$ 6u(medium) 12u$(small)">
+        <div class="client-logo">
+            <img src="assets/images/clients/knia_logo.avif" alt="Kazi Nazrul Islam Airport" style="max-width: 150px; height: auto;"/>
+            <h4>Kazi Nazrul Islam Airport</h4>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="4u 6u(medium) 12u$(small)">
+        <div class="client-logo">
+            <img src="assets/images/clients/magik_logo.avif" alt="MAGIK Lighting" style="max-width: 150px; height: auto;"/>
+            <h4>MAGIK Lighting</h4>
+        </div>
+    </div>
+    <div class="4u 6u$(medium) 12u$(small)">
+        <div class="client-logo">
+            <img src="assets/images/clients/sany_logo.avif" alt="SANY" style="max-width: 150px; height: auto;"/>
+            <h4>SANY</h4>
+        </div>
+    </div>
+    <div class="4u$ 6u(medium) 12u$(small)">
+        <div class="client-logo">
+            <img src="assets/images/clients/style_baazar_logo.avif" alt="Style Baazar" style="max-width: 150px; height: auto;"/>
+            <h4>Style Baazar</h4>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="4u 6u(medium) 12u$(small)">
+        <div class="client-logo">
+            <img src="assets/images/clients/promot_edge_logo.avif" alt="PromotEdge" style="max-width: 150px; height: auto;"/>
+            <h4>PromotEdge</h4>
+        </div>
+    </div>
+    <div class="4u 6u$(medium) 12u$(small)">
+        <div class="client-logo">
+            <img src="assets/images/clients/weicahi_logo.jpg" alt="Weichai" style="max-width: 150px; height: auto;"/>
+            <h4>Weichai</h4>
+        </div>
+    </div>
+    <div class="4u$ 6u(medium) 12u$(small)">
+        <div class="client-logo">
+            <img src="assets/images/clients/alumaze_logo.avif" alt="Alumaze" style="max-width: 150px; height: auto;"/>
+            <h4>Alumaze</h4>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="4u 6u(medium) 12u$(small)">
+        <div class="client-logo">
+            <img src="assets/images/clients/zandu_logo.avif" alt="Zandu" style="max-width: 150px; height: auto;"/>
+            <h4>Zandu</h4>
+        </div>
+    </div>
+    <div class="4u 6u$(medium) 12u$(small)">
+        <div class="client-logo">
+            <img src="assets/images/clients/tata_logo.avif" alt="TATA Metaliks" style="max-width: 150px; height: auto;"/>
+            <h4>TATA Metaliks</h4>
         </div>
     </div>
     <div class="4u$ 6u(medium) 12u$(small)">
         <div class="client-logo">
             <img src="assets/images/clients/hoichoi_logo.png" alt="Hoichoi" style="max-width: 150px; height: auto;"/>
             <h4>Hoichoi</h4>
-            <p style="font-size: 0.9em; color: #888;">Leading Bengali OTT platform - Creative Trainee</p>
         </div>
     </div>
 </div>
-
 <div class="row">
     <div class="4u 6u(medium) 12u$(small)">
         <div class="client-logo">
-            <img src="assets/images/clients/svf_logo.png" alt="SVF Entertainment" style="max-width: 150px; height: auto;"/>
-            <h4>SVF Entertainment</h4>
-            <p style="font-size: 0.9em; color: #888;">Leading entertainment house - Creative Associate</p>
+            <img src="assets/images/clients/svf_logo.png" alt="SVF" style="max-width: 150px; height: auto;"/>
+            <h4>SVF</h4>
         </div>
     </div>
     <div class="4u 6u$(medium) 12u$(small)">
         <div class="client-logo">
-            <img src="assets/images/clients/logo_2.png" alt="TATA Group" style="max-width: 150px; height: auto;"/>
-            <h4>TATA Group</h4>
-            <p style="font-size: 0.9em; color: #888;">Indian multinational conglomerate - Promotedge</p>
+            <img src="assets/images/clients/random_logo.avif" alt="Random Client" style="max-width: 150px; height: auto;"/>
+            <h4>Random Client</h4>
         </div>
     </div>
     <div class="4u$ 6u(medium) 12u$(small)">
         <div class="client-logo">
-            <img src="assets/images/clients/sony_music_logo.png" alt="Sony Music" style="max-width: 150px; height: auto;"/>
-            <h4>Sony Music</h4>
-            <p style="font-size: 0.9em; color: #888;">Global music entertainment - Promotedge</p>
+            <img src="assets/images/clients/vrk_logo.avif" alt="VRK Heritage" style="max-width: 150px; height: auto;"/>
+            <h4>VRK Heritage</h4>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="4u 6u(medium) 12u$(small)">
+        <div class="client-logo">
+            <img src="assets/images/clients/sarlal_logo.png" alt="Sarlal Engineering" style="max-width: 150px; height: auto;"/>
+            <h4>Sarlal Engineering</h4>
+        </div>
+    </div>
+    <div class="4u 6u$(medium) 12u$(small)">
+        <div class="client-logo">
+            <img src="assets/images/clients/avadh_logo.avif" alt="Avadh Sugar & Energy" style="max-width: 150px; height: auto;"/>
+            <h4>Avadh Sugar & Energy</h4>
+        </div>
+    </div>
+    <div class="4u$ 6u(medium) 12u$(small)">
+        <div class="client-logo">
+            <img src="assets/images/clients/raydean_logo.avif" alt="Raydean" style="max-width: 150px; height: auto;"/>
+            <h4>Raydean</h4>
         </div>
     </div>
 </div>
@@ -181,8 +253,4 @@ Whether you're a startup looking to establish your voice or an established brand
         <li><strong>Fossil:</strong> <a href="https://www.instagram.com/p/C4Rj21Jvx3Z/?igsh=MWl3cWtobnAzb3E1MA%3D%3D" target="_blank" rel="noopener">Watch the campaign</a></li>
         <li><strong>Reliance Retail:</strong> <a href="https://www.instagram.com/p/C4Rj21Jvx3Z/?igsh=MWl3cWtobnAzb3E1MA%3D%3D" target="_blank" rel="noopener">Explore the campaign</a></li>
     </ul>
-</div>
-
-<hr class="major" />
-
-## My Process 
+</div> 
