@@ -349,4 +349,45 @@
 
 	});
 
+	// Instagram popover preview on hover
+	(function() {
+		function positionPopover(link, popover) {
+			const rect = link.getBoundingClientRect();
+			popover.style.position = 'absolute';
+			popover.style.left = (rect.right + window.scrollX + 10) + 'px';
+			popover.style.top = (rect.top + window.scrollY) + 'px';
+		}
+
+		document.querySelectorAll('.instagram-link').forEach(link => {
+			const popover = link.nextElementSibling;
+			link.addEventListener('mouseenter', function(e) {
+				positionPopover(link, popover);
+				popover.style.display = 'block';
+				if (!popover.innerHTML) {
+					const url = link.getAttribute('data-instagram-url');
+					popover.innerHTML = `<blockquote class="instagram-media" data-instgrm-permalink="${url}" data-instgrm-version="14"></blockquote>`;
+					if (!window.instgrm) {
+						var script = document.createElement('script');
+						script.src = "https://www.instagram.com/embed.js";
+						script.onload = () => window.instgrm.Embeds.process();
+						document.body.appendChild(script);
+					} else {
+						window.instgrm.Embeds.process();
+					}
+				}
+			});
+			link.addEventListener('mouseleave', function(e) {
+				setTimeout(() => {
+					popover.style.display = 'none';
+				}, 300);
+			});
+			popover.addEventListener('mouseenter', function() {
+				popover.style.display = 'block';
+			});
+			popover.addEventListener('mouseleave', function() {
+				popover.style.display = 'none';
+			});
+		});
+	})();
+
 })(jQuery);

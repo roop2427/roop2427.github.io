@@ -70,35 +70,35 @@ Here are some of the creative campaigns and social media content I've developed 
     <div class="4u 12u$(medium)">
         <h4>Fossil India</h4>
         <ul>
-            <li><a href="https://www.instagram.com/reel/DKjtft9t24a/?igsh=MWUxOHZwemR3MnFhYQ==" target="_blank">Campaign Reel 1</a></li>
-            <li><a href="https://www.instagram.com/reel/DF-NUDRMPwV/?igsh=djIxcTNwYnMwMWJ0" target="_blank">Campaign Reel 2</a></li>
-            <li><a href="https://www.instagram.com/reel/DGBPn6EJDPP/?igsh=MXZmZnBpbHRvZGJuOA==" target="_blank">Campaign Reel 3</a></li>
-            <li><a href="https://www.instagram.com/reel/DIdGV_YvZ5y/?igsh=MWkzczQyZm8xdmEweQ==" target="_blank">Campaign Reel 4</a></li>
-            <li><a href="https://www.instagram.com/reel/DKzJ8ZJy3D9/?igsh=c3M4YWx6N2Z6MXFs" target="_blank">Campaign Reel 5</a></li>
+            <li><a href="https://www.instagram.com/reel/DKjtft9t24a/?igsh=MWUxOHZwemR3MnFhYQ==" target="_blank" class="instagram-link" data-instagram-url="https://www.instagram.com/reel/DKjtft9t24a/?igsh=MWUxOHZwemR3MnFhYQ==">Campaign Reel 1</a><div class="insta-popover" style="display:none; position:absolute;"></div></li>
+            <li><a href="https://www.instagram.com/reel/DF-NUDRMPwV/?igsh=djIxcTNwYnMwMWJ0" target="_blank" class="instagram-link" data-instagram-url="https://www.instagram.com/reel/DF-NUDRMPwV/?igsh=djIxcTNwYnMwMWJ0">Campaign Reel 2</a><div class="insta-popover" style="display:none; position:absolute;"></div></li>
+            <li><a href="https://www.instagram.com/reel/DGBPn6EJDPP/?igsh=MXZmZnBpbHRvZGJuOA==" target="_blank" class="instagram-link" data-instagram-url="https://www.instagram.com/reel/DGBPn6EJDPP/?igsh=MXZmZnBpbHRvZGJuOA==">Campaign Reel 3</a><div class="insta-popover" style="display:none; position:absolute;"></div></li>
+            <li><a href="https://www.instagram.com/reel/DIdGV_YvZ5y/?igsh=MWkzczQyZm8xdmEweQ==" target="_blank" class="instagram-link" data-instagram-url="https://www.instagram.com/reel/DIdGV_YvZ5y/?igsh=MWkzczQyZm8xdmEweQ==">Campaign Reel 4</a><div class="insta-popover" style="display:none; position:absolute;"></div></li>
+            <li><a href="https://www.instagram.com/reel/DKzJ8ZJy3D9/?igsh=c3M4YWx6N2Z6MXFs" target="_blank" class="instagram-link" data-instagram-url="https://www.instagram.com/reel/DKzJ8ZJy3D9/?igsh=c3M4YWx6N2Z6MXFs">Campaign Reel 5</a><div class="insta-popover" style="display:none; position:absolute;"></div></li>
         </ul>
     </div>
     <div class="4u 12u$(medium)">
         <h4>Veedol</h4>
         <ul>
-            <li><strong>⭐ <a href="https://www.instagram.com/p/C1CYK22hRx0/?igsh=bzBsOHl1MW9qcnVy" target="_blank">Star of My Work</a></strong></li>
-            <li><a href="https://www.instagram.com/reel/DFhZak1pXHq/?igsh=ejh2MWp2Nnc3Ynl1" target="_blank">Campaign Reel 1</a></li>
-            <li><a href="https://www.instagram.com/reel/DHaFn6hSQo_/?igsh=amc2d25kY3dpMXZx" target="_blank">Campaign Reel 2</a></li>
-            <li><a href="https://www.instagram.com/reel/DAQa-dAJxyf/?igsh=MXR5MG15bTMwM2JmYw==" target="_blank">Campaign Reel 3</a></li>
-            <li><a href="https://www.instagram.com/reel/C_OLj_hSZrG/?igsh=MXI0bzVkYTM5azZtZA==" target="_blank">Campaign Reel 4</a></li>
-            <li><a href="https://www.instagram.com/reel/C8E7zsdBSaL/?igsh=b2JjZmJkMHozemIw" target="_blank">Campaign Reel 5</a></li>
-            <li><a href="https://www.instagram.com/p/C2ZwTr7BOHN/?igsh=MXg5MTUxMHB5ZjN0aw==" target="_blank">Instagram Post 1</a></li>
-            <li><a href="https://www.instagram.com/p/C0bpy_NB5ZK/?igsh=MTZlaXl4eTRzanlrcQ==" target="_blank">Instagram Post 2</a></li>
-            <li><a href="https://www.instagram.com/p/CygEALnhWNJ/?igsh=MWxwYm1uMmpkdGFpNQ==" target="_blank">Instagram Post 3</a></li>
-            <li><a href="https://www.instagram.com/reel/Cvzi4LYBItE/?igsh=ZmNsb2JjeTE1cXBo" target="_blank">Campaign Reel 6</a></li>
+            <li><strong>⭐ <a href="https://www.instagram.com/p/C1CYK22hRx0/?igsh=bzBsOHl1MW9qcnVy" target="_blank" class="instagram-link" data-instagram-url="https://www.instagram.com/p/C1CYK22hRx0/?igsh=bzBsOHl1MW9qcnVy">Star of My Work</a><div class="insta-popover" style="display:none; position:absolute;"></div></strong></li>
+            <li><a href="https://www.instagram.com/reel/DFhZak1pXHq/?igsh=ejh2MWp2Nnc3Ynl1" target="_blank" class="instagram-link" data-instagram-url="https://www.instagram.com/reel/DFhZak1pXHq/?igsh=ejh2MWp2Nnc3Ynl1">Campaign Reel 1</a><div class="insta-popover" style="display:none; position:absolute;"></div></li>
+            <li><a href="https://www.instagram.com/reel/DHaFn6hSQo_/?igsh=amc2d25kY3dpMXZx" target="_blank" class="instagram-link" data-instagram-url="https://www.instagram.com/reel/DHaFn6hSQo_/?igsh=amc2d25kY3dpMXZx">Campaign Reel 2</a><div class="insta-popover" style="display:none; position:absolute;"></div></li>
+            <li><a href="https://www.instagram.com/reel/DAQa-dAJxyf/?igsh=MXR5MG15bTMwM2JmYw==" target="_blank" class="instagram-link" data-instagram-url="https://www.instagram.com/reel/DAQa-dAJxyf/?igsh=MXR5MG15bTMwM2JmYw==">Campaign Reel 3</a><div class="insta-popover" style="display:none; position:absolute;"></div></li>
+            <li><a href="https://www.instagram.com/reel/C_OLj_hSZrG/?igsh=MXI0bzVkYTM5azZtZA==" target="_blank" class="instagram-link" data-instagram-url="https://www.instagram.com/reel/C_OLj_hSZrG/?igsh=MXI0bzVkYTM5azZtZA==">Campaign Reel 4</a><div class="insta-popover" style="display:none; position:absolute;"></div></li>
+            <li><a href="https://www.instagram.com/reel/C8E7zsdBSaL/?igsh=b2JjZmJkMHozemIw" target="_blank" class="instagram-link" data-instagram-url="https://www.instagram.com/reel/C8E7zsdBSaL/?igsh=b2JjZmJkMHozemIw">Campaign Reel 5</a><div class="insta-popover" style="display:none; position:absolute;"></div></li>
+            <li><a href="https://www.instagram.com/p/C2ZwTr7BOHN/?igsh=MXg5MTUxMHB5ZjN0aw==" target="_blank" class="instagram-link" data-instagram-url="https://www.instagram.com/p/C2ZwTr7BOHN/?igsh=MXg5MTUxMHB5ZjN0aw==">Instagram Post 1</a><div class="insta-popover" style="display:none; position:absolute;"></div></li>
+            <li><a href="https://www.instagram.com/p/C0bpy_NB5ZK/?igsh=MTZlaXl4eTRzanlrcQ==" target="_blank" class="instagram-link" data-instagram-url="https://www.instagram.com/p/C0bpy_NB5ZK/?igsh=MTZlaXl4eTRzanlrcQ==">Instagram Post 2</a><div class="insta-popover" style="display:none; position:absolute;"></div></li>
+            <li><a href="https://www.instagram.com/p/CygEALnhWNJ/?igsh=MWxwYm1uMmpkdGFpNQ==" target="_blank" class="instagram-link" data-instagram-url="https://www.instagram.com/p/CygEALnhWNJ/?igsh=MWxwYm1uMmpkdGFpNQ==">Instagram Post 3</a><div class="insta-popover" style="display:none; position:absolute;"></div></li>
+            <li><a href="https://www.instagram.com/reel/Cvzi4LYBItE/?igsh=ZmNsb2JjeTE1cXBo" target="_blank" class="instagram-link" data-instagram-url="https://www.instagram.com/reel/Cvzi4LYBItE/?igsh=ZmNsb2JjeTE1cXBo">Campaign Reel 6</a><div class="insta-popover" style="display:none; position:absolute;"></div></li>
         </ul>
     </div>
     <div class="4u$ 12u$(medium)">
         <h4>Reliance Retail</h4>
         <ul>
-            <li><a href="https://www.instagram.com/reel/DJ88O3lqLBO/?igsh=MjExdzV0amQ1bjZy" target="_blank">Campaign Reel 1</a></li>
-            <li><a href="https://www.instagram.com/reel/DJgbpSmSLgp/?igsh=c2YzMDQ3d25zNTdl" target="_blank">Campaign Reel 2</a></li>
-            <li><a href="https://www.instagram.com/reel/DG8EgGbyWw6/?igsh=OTY3dnFhdDJscWJi" target="_blank">Campaign Reel 3</a></li>
-            <li><a href="https://www.instagram.com/reel/C9EmL8CJJma/?igsh=MWFvM2dxcWdpcTRlaw==" target="_blank">Campaign Reel 4</a></li>
+            <li><a href="https://www.instagram.com/reel/DJ88O3lqLBO/?igsh=MjExdzV0amQ1bjZy" target="_blank" class="instagram-link" data-instagram-url="https://www.instagram.com/reel/DJ88O3lqLBO/?igsh=MjExdzV0amQ1bjZy">Campaign Reel 1</a><div class="insta-popover" style="display:none; position:absolute;"></div></li>
+            <li><a href="https://www.instagram.com/reel/DJgbpSmSLgp/?igsh=c2YzMDQ3d25zNTdl" target="_blank" class="instagram-link" data-instagram-url="https://www.instagram.com/reel/DJgbpSmSLgp/?igsh=c2YzMDQ3d25zNTdl">Campaign Reel 2</a><div class="insta-popover" style="display:none; position:absolute;"></div></li>
+            <li><a href="https://www.instagram.com/reel/DG8EgGbyWw6/?igsh=OTY3dnFhdDJscWJi" target="_blank" class="instagram-link" data-instagram-url="https://www.instagram.com/reel/DG8EgGbyWw6/?igsh=OTY3dnFhdDJscWJi">Campaign Reel 3</a><div class="insta-popover" style="display:none; position:absolute;"></div></li>
+            <li><a href="https://www.instagram.com/reel/C9EmL8CJJma/?igsh=MWFvM2dxcWdpcTRlaw==" target="_blank" class="instagram-link" data-instagram-url="https://www.instagram.com/reel/C9EmL8CJJma/?igsh=MWFvM2dxcWdpcTRlaw==">Campaign Reel 4</a><div class="insta-popover" style="display:none; position:absolute;"></div></li>
         </ul>
     </div>
 </div>

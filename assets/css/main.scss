@@ -176,3 +176,14 @@
         padding: 1em;
     }
 }
+
+.insta-popover {
+  background: #fff;
+  border: 1px solid #ccc;
+  z-index: 1000;
+  width: 340px;
+  min-height: 400px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  padding: 8px;
+  border-radius: 8px;
+}
