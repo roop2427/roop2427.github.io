@@ -30,7 +30,7 @@ Successfully migrated content and assets from [Roopkatha's Wix Portfolio](https:
 - `hoichoi_logo.png` - Hoichoi (OTT platform)
 - `svf_logo.png` - SVF Entertainment
 - `reliance_logo.png` - Reliance Industries Ltd
-- `weicahi_logo.jpg` - Weicahi
+- `weichai_logo_2.png` - Weicahi
 - `logo_2.png` - Additional client logo
 
 ### Visual Enhancements
@@ -84,7 +84,7 @@ assets/
 │       ├── hoichoi_logo.png
 │       ├── svf_logo.png
 │       ├── reliance_logo.png
-│       ├── weicahi_logo.jpg
+│       ├── weichai_logo_2.png
 │       └── logo_2.png
 └── css/
     └── main.scss (enhanced with portfolio styles)

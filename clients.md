@@ -15,19 +15,16 @@ With experience at top agencies like **Dentsu Network** and **Promotedge**, plus
     <div class="4u 6u(medium) 12u$(small)">
         <div class="client-logo">
             <img src="assets/images/clients/veedol_logo.avif" alt="Veedol" style="max-width: 150px; height: auto;"/>
-            <h4>Veedol</h4>
         </div>
     </div>
     <div class="4u 6u$(medium) 12u$(small)">
         <div class="client-logo">
             <img src="assets/images/clients/sai_logo.avif" alt="SAI International School" style="max-width: 150px; height: auto;"/>
-            <h4>SAI International School</h4>
         </div>
     </div>
     <div class="4u$ 6u(medium) 12u$(small)">
         <div class="client-logo">
             <img src="assets/images/clients/knia_logo.avif" alt="Kazi Nazrul Islam Airport" style="max-width: 150px; height: auto;"/>
-            <h4>Kazi Nazrul Islam Airport</h4>
         </div>
     </div>
 </div>
@@ -35,19 +32,16 @@ With experience at top agencies like **Dentsu Network** and **Promotedge**, plus
     <div class="4u 6u(medium) 12u$(small)">
         <div class="client-logo">
             <img src="assets/images/clients/magik_logo.avif" alt="MAGIK Lighting" style="max-width: 150px; height: auto;"/>
-            <h4>MAGIK Lighting</h4>
         </div>
     </div>
     <div class="4u 6u$(medium) 12u$(small)">
         <div class="client-logo">
             <img src="assets/images/clients/sany_logo.avif" alt="SANY" style="max-width: 150px; height: auto;"/>
-            <h4>SANY</h4>
         </div>
     </div>
     <div class="4u$ 6u(medium) 12u$(small)">
         <div class="client-logo">
             <img src="assets/images/clients/style_baazar_logo.avif" alt="Style Baazar" style="max-width: 150px; height: auto;"/>
-            <h4>Style Baazar</h4>
         </div>
     </div>
 </div>
@@ -55,19 +49,16 @@ With experience at top agencies like **Dentsu Network** and **Promotedge**, plus
     <div class="4u 6u(medium) 12u$(small)">
         <div class="client-logo">
             <img src="assets/images/clients/promot_edge_logo.avif" alt="PromotEdge" style="max-width: 150px; height: auto;"/>
-            <h4>PromotEdge</h4>
         </div>
     </div>
     <div class="4u 6u$(medium) 12u$(small)">
         <div class="client-logo">
-            <img src="assets/images/clients/weicahi_logo.jpg" alt="Weichai" style="max-width: 150px; height: auto;"/>
-            <h4>Weichai</h4>
+            <img src="assets/images/clients/weichai_logo_2.png" alt="Weichai" style="max-width: 150px; height: auto;"/>
         </div>
     </div>
     <div class="4u$ 6u(medium) 12u$(small)">
         <div class="client-logo">
-            <img src="assets/images/clients/alumaze_logo.avif" alt="Alumaze" style="max-width: 150px; height: auto;"/>
-            <h4>Alumaze</h4>
+            <img src="assets/images/clients/alumaze_logo.png" alt="Alumaze" style="max-width: 150px; height: auto;"/>
         </div>
     </div>
 </div>
@@ -75,19 +66,16 @@ With experience at top agencies like **Dentsu Network** and **Promotedge**, plus
     <div class="4u 6u(medium) 12u$(small)">
         <div class="client-logo">
             <img src="assets/images/clients/zandu_logo.avif" alt="Zandu" style="max-width: 150px; height: auto;"/>
-            <h4>Zandu</h4>
         </div>
     </div>
     <div class="4u 6u$(medium) 12u$(small)">
         <div class="client-logo">
             <img src="assets/images/clients/tata_logo.avif" alt="TATA Metaliks" style="max-width: 150px; height: auto;"/>
-            <h4>TATA Metaliks</h4>
         </div>
     </div>
     <div class="4u$ 6u(medium) 12u$(small)">
         <div class="client-logo">
             <img src="assets/images/clients/hoichoi_logo.png" alt="Hoichoi" style="max-width: 150px; height: auto;"/>
-            <h4>Hoichoi</h4>
         </div>
     </div>
 </div>
@@ -95,19 +83,16 @@ With experience at top agencies like **Dentsu Network** and **Promotedge**, plus
     <div class="4u 6u(medium) 12u$(small)">
         <div class="client-logo">
             <img src="assets/images/clients/svf_logo.png" alt="SVF" style="max-width: 150px; height: auto;"/>
-            <h4>SVF</h4>
         </div>
     </div>
     <div class="4u 6u$(medium) 12u$(small)">
         <div class="client-logo">
             <img src="assets/images/clients/random_logo.avif" alt="Random Client" style="max-width: 150px; height: auto;"/>
-            <h4>Random Client</h4>
         </div>
     </div>
     <div class="4u$ 6u(medium) 12u$(small)">
         <div class="client-logo">
             <img src="assets/images/clients/vrk_logo.avif" alt="VRK Heritage" style="max-width: 150px; height: auto;"/>
-            <h4>VRK Heritage</h4>
         </div>
     </div>
 </div>
@@ -115,19 +100,16 @@ With experience at top agencies like **Dentsu Network** and **Promotedge**, plus
     <div class="4u 6u(medium) 12u$(small)">
         <div class="client-logo">
             <img src="assets/images/clients/sarlal_logo.png" alt="Sarlal Engineering" style="max-width: 150px; height: auto;"/>
-            <h4>Sarlal Engineering</h4>
         </div>
     </div>
     <div class="4u 6u$(medium) 12u$(small)">
         <div class="client-logo">
             <img src="assets/images/clients/avadh_logo.avif" alt="Avadh Sugar & Energy" style="max-width: 150px; height: auto;"/>
-            <h4>Avadh Sugar & Energy</h4>
         </div>
     </div>
     <div class="4u$ 6u(medium) 12u$(small)">
         <div class="client-logo">
             <img src="assets/images/clients/raydean_logo.avif" alt="Raydean" style="max-width: 150px; height: auto;"/>
-            <h4>Raydean</h4>
         </div>
     </div>
 </div>
